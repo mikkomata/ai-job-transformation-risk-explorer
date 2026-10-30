@@ -1,0 +1,389 @@
+﻿Industry / Job Category,Job / Occupation,Description,Risk Category
+"Administration, clerical and office operations",Data Entry Clerk,Enters and updates business records.,Very High
+"Administration, clerical and office operations",Administrative Assistant,Handles office administration and scheduling.,Very High
+"Administration, clerical and office operations",Executive Secretary,Manages correspondence and executive schedules.,High
+"Administration, clerical and office operations",Receptionist,Handles visitor registration and inquiries.,High
+"Administration, clerical and office operations",Office Clerk,Processes routine office documents.,Very High
+"Administration, clerical and office operations",Records Management Officer,Maintains organizational records.,High
+"Administration, clerical and office operations",Document Controller,Manages document revisions and approvals.,High
+"Administration, clerical and office operations",Transcriptionist,Converts audio into written documents.,Very High
+"Administration, clerical and office operations",Scheduling Coordinator,Arranges appointments and calendars.,Very High
+"Administration, clerical and office operations",Virtual Assistant,Performs remote administrative tasks.,Very High
+"Administration, clerical and office operations",Procurement Assistant,Processes purchase requests.,High
+"Administration, clerical and office operations",Payroll Clerk,Processes employee salaries and deductions.,Very High
+"Administration, clerical and office operations",Billing Clerk,Prepares invoices and billing records.,Very High
+"Administration, clerical and office operations",Mailroom Clerk,Sorts and distributes correspondence.,High
+"Finance, banking, insurance and accounting",Bookkeeper,Records financial transactions.,Very High
+"Finance, banking, insurance and accounting",Accounts Payable Clerk,Processes supplier payments.,Very High
+"Finance, banking, insurance and accounting",Accounts Receivable Clerk,Tracks customer payments.,Very High
+"Finance, banking, insurance and accounting",Accounting Assistant,Performs routine accounting.,High
+"Finance, banking, insurance and accounting",Financial Reporting Analyst,Prepares financial reports.,High
+"Finance, banking, insurance and accounting",Tax Preparation Clerk,Prepares standard tax returns.,High
+"Finance, banking, insurance and accounting",Bank Teller,Processes banking transactions.,High
+"Finance, banking, insurance and accounting",Loan Processor,Reviews loan applications.,Very High
+"Finance, banking, insurance and accounting",Credit Analyst,Evaluates creditworthiness.,High
+"Finance, banking, insurance and accounting",Insurance Claims Processor,Processes insurance claims.,Very High
+"Finance, banking, insurance and accounting",Insurance Underwriter,Evaluates insurance risks.,High
+"Finance, banking, insurance and accounting",Actuary,Models financial and insurance risks.,Moderate
+"Finance, banking, insurance and accounting",Investment Analyst,Researches financial investments.,High
+"Finance, banking, insurance and accounting",Financial Advisor,Advises clients on financial decisions.,Moderate
+"Finance, banking, insurance and accounting",Auditor,Examines financial records and controls.,High
+"Finance, banking, insurance and accounting",Compliance Officer,Monitors regulatory compliance.,Moderate
+"Finance, banking, insurance and accounting",Fraud Investigator,Investigates financial fraud.,Moderate
+"Finance, banking, insurance and accounting",Portfolio Manager,Manages investment portfolios.,Moderate
+"Finance, banking, insurance and accounting",Financial Controller,Oversees financial reporting.,Moderate
+"Customer service, sales and BPO",Call Center Agent,Handles routine customer calls.,Very High
+"Customer service, sales and BPO",Customer Support Representative,Answers customer questions and complaints.,Very High
+"Customer service, sales and BPO",Technical Support Level 1,Handles basic troubleshooting.,Very High
+"Customer service, sales and BPO",Telemarketer,Conducts outbound sales calls.,Very High
+"Customer service, sales and BPO",Appointment Setter,Schedules customer appointments.,Very High
+"Customer service, sales and BPO",Chat Support Agent,Responds to customer chats.,Very High
+"Customer service, sales and BPO",Email Support Agent,Handles customer email inquiries.,Very High
+"Customer service, sales and BPO",Sales Development Representative,Qualifies sales leads.,High
+"Customer service, sales and BPO",Retail Salesperson,Assists customers with purchases.,High
+"Customer service, sales and BPO",Real Estate Agent,Markets and negotiates property sales.,Moderate
+"Customer service, sales and BPO",Insurance Sales Agent,Sells insurance products.,High
+"Customer service, sales and BPO",Account Manager,Maintains customer relationships.,Moderate
+"Customer service, sales and BPO",Business Development Manager,Identifies business opportunities.,Moderate
+"Customer service, sales and BPO",Key Account Director,Manages major corporate customers.,Lower
+Information technology and software,Junior Programmer,Writes routine software code.,Very High
+Information technology and software,Web Developer,Builds and maintains websites.,High
+Information technology and software,Front-End Developer,Develops website interfaces.,High
+Information technology and software,Back-End Developer,Builds server-side applications.,High
+Information technology and software,Mobile App Developer,Creates mobile applications.,High
+Information technology and software,Software Tester,Performs repetitive software testing.,Very High
+Information technology and software,QA Automation Engineer,Develops automated testing.,High
+Information technology and software,Database Administrator,Maintains databases.,High
+Information technology and software,SQL Developer,Develops database queries and procedures.,High
+Information technology and software,Data Analyst,Analyzes and reports business data.,High
+Information technology and software,BI Analyst,Develops dashboards and reports.,High
+Information technology and software,Data Engineer,Builds data pipelines.,Moderate
+Information technology and software,Data Scientist,Develops predictive models.,Moderate
+Information technology and software,AI Engineer,Develops and integrates AI systems.,Moderate
+Information technology and software,Machine Learning Engineer,Builds machine learning models.,Moderate
+Information technology and software,DevOps Engineer,Automates software deployment.,Moderate
+Information technology and software,Cloud Engineer,Maintains cloud infrastructure.,Moderate
+Information technology and software,System Administrator,Maintains IT systems and servers.,High
+Information technology and software,IT Helpdesk Technician,Provides routine technical support.,High
+Information technology and software,Network Engineer,Designs and maintains networks.,Moderate
+Information technology and software,Cybersecurity Analyst,Monitors and investigates threats.,Moderate
+Information technology and software,Penetration Tester,Tests system security.,Moderate
+Information technology and software,Security Architect,Designs security infrastructure.,Lower
+Information technology and software,Enterprise Architect,Designs enterprise technology systems.,Lower
+"Engineering, science and research",Chemical Engineer,Designs and optimizes chemical processes.,Moderate
+"Engineering, science and research",Process Engineer,Improves industrial processes.,Moderate
+"Engineering, science and research",Petroleum Engineer,Designs oil and gas extraction processes.,Moderate
+"Engineering, science and research",Mining Engineer,Plans mineral extraction.,Moderate
+"Engineering, science and research",Metallurgical Engineer,Develops and processes metals.,Moderate
+"Engineering, science and research",Materials Engineer,Develops engineering materials.,Moderate
+"Engineering, science and research",Mechanical Engineer,Designs mechanical systems.,Moderate
+"Engineering, science and research",Electrical Engineer,Designs electrical systems.,Moderate
+"Engineering, science and research",Electronics Engineer,Develops electronic systems.,High
+"Engineering, science and research",Civil Engineer,Designs infrastructure.,Moderate
+"Engineering, science and research",Structural Engineer,Evaluates structural safety.,Moderate
+"Engineering, science and research",Industrial Engineer,Optimizes productivity and processes.,High
+"Engineering, science and research",Manufacturing Engineer,Develops manufacturing processes.,Moderate
+"Engineering, science and research",Quality Engineer,Ensures product quality.,Moderate
+"Engineering, science and research",Automation Engineer,Develops industrial automation.,Moderate
+"Engineering, science and research",Robotics Engineer,Designs and maintains robots.,Moderate
+"Engineering, science and research",Control Systems Engineer,Develops industrial control systems.,Moderate
+"Engineering, science and research",Environmental Engineer,Develops environmental solutions.,Moderate
+"Engineering, science and research",Biomedical Engineer,Develops medical equipment.,Moderate
+"Engineering, science and research",Nuclear Engineer,Works with nuclear systems.,Moderate
+"Engineering, science and research",Aerospace Engineer,Designs aircraft and spacecraft.,Moderate
+"Engineering, science and research",Laboratory Technician,Performs chemical and scientific tests.,High
+"Engineering, science and research",Research Scientist,Conducts scientific research.,Moderate
+"Engineering, science and research",Research Assistant,Supports experiments and documentation.,High
+"Engineering, science and research",Process Safety Engineer,Assesses industrial hazards.,Lower
+Manufacturing and industrial operations,Assembly Line Worker,Assembles manufactured products.,Very High
+Manufacturing and industrial operations,Machine Operator,Operates production machinery.,High
+Manufacturing and industrial operations,CNC Machine Operator,Operates computer-controlled machines.,High
+Manufacturing and industrial operations,Packaging Operator,Packages finished products.,Very High
+Manufacturing and industrial operations,Food Processing Worker,Processes and packages food.,High
+Manufacturing and industrial operations,Production Planner,Plans production schedules.,High
+Manufacturing and industrial operations,Production Supervisor,Supervises factory operations.,Moderate
+Manufacturing and industrial operations,Production Manager,Manages manufacturing operations.,Moderate
+Manufacturing and industrial operations,MES Engineer,Maintains manufacturing execution systems.,Moderate
+Manufacturing and industrial operations,MES Administrator,Configures and supports MES.,High
+Manufacturing and industrial operations,Historian Engineer,Manages industrial process data.,Moderate
+Manufacturing and industrial operations,PLC Programmer,Programs industrial controllers.,Moderate
+Manufacturing and industrial operations,SCADA Engineer,Develops industrial supervisory systems.,Moderate
+Manufacturing and industrial operations,Instrumentation Technician,Maintains industrial instruments.,Lower
+Manufacturing and industrial operations,Maintenance Technician,Repairs industrial machinery.,Lower
+Manufacturing and industrial operations,Industrial Electrician,Maintains factory electrical systems.,Lower
+Manufacturing and industrial operations,Industrial Mechanic,Repairs industrial mechanical equipment.,Lower
+Manufacturing and industrial operations,Quality Control Inspector,Inspects manufactured products.,High
+Manufacturing and industrial operations,Quality Assurance Manager,Oversees quality systems.,Moderate
+Manufacturing and industrial operations,Plant Manager,Oversees entire manufacturing plants.,Lower
+Manufacturing and industrial operations,Factory Operations Manager,Coordinates factory operations.,Lower
+Manufacturing and industrial operations,Industrial Data Engineer,Develops manufacturing data systems.,Moderate
+Manufacturing and industrial operations,Digital Factory Architect,Designs connected factories.,Lower
+"Agriculture, forestry, fishing and food production",Crop Farmer,Grows and manages crops.,High
+"Agriculture, forestry, fishing and food production",Farm Laborer,Performs planting and harvesting.,High
+"Agriculture, forestry, fishing and food production",Tractor Operator,Operates agricultural machinery.,High
+"Agriculture, forestry, fishing and food production",Agricultural Technician,Supports farming operations.,Moderate
+"Agriculture, forestry, fishing and food production",Agricultural Engineer,Designs farming equipment.,Moderate
+"Agriculture, forestry, fishing and food production",Agronomist,Studies crops and soil.,Moderate
+"Agriculture, forestry, fishing and food production",Horticulturist,Manages plant cultivation.,Moderate
+"Agriculture, forestry, fishing and food production",Livestock Farmer,Raises farm animals.,Moderate
+"Agriculture, forestry, fishing and food production",Poultry Farm Worker,Manages poultry production.,High
+"Agriculture, forestry, fishing and food production",Dairy Farm Worker,Handles dairy operations.,High
+"Agriculture, forestry, fishing and food production",Veterinarian,Diagnoses and treats animal diseases.,Moderate
+"Agriculture, forestry, fishing and food production",Fisheries Worker,Performs fishing and aquaculture.,High
+"Agriculture, forestry, fishing and food production",Aquaculture Technician,Manages fish production.,Moderate
+"Agriculture, forestry, fishing and food production",Forestry Worker,Maintains forests.,Lower
+"Agriculture, forestry, fishing and food production",Logging Machine Operator,Operates timber machinery.,High
+"Agriculture, forestry, fishing and food production",Agricultural Research Scientist,Develops farming methods.,Moderate
+"Agriculture, forestry, fishing and food production",Food Scientist,Develops and tests food products.,Moderate
+"Agriculture, forestry, fishing and food production",Food Safety Inspector,Ensures food safety compliance.,Moderate
+"Construction, architecture and property",Construction Laborer,Performs general construction work.,Lower
+"Construction, architecture and property",Carpenter,Builds wooden structures.,Lower
+"Construction, architecture and property",Mason,Builds walls and structures.,Lower
+"Construction, architecture and property",Plumber,Installs and repairs plumbing.,Lower
+"Construction, architecture and property",Electrician,Installs electrical systems.,Lower
+"Construction, architecture and property",Welder,Joins metal components.,Moderate
+"Construction, architecture and property",Roofer,Installs and repairs roofs.,Lower
+"Construction, architecture and property",Heavy Equipment Operator,Operates construction machinery.,High
+"Construction, architecture and property",Construction Project Manager,Oversees construction projects.,Moderate
+"Construction, architecture and property",Civil Construction Engineer,Manages infrastructure construction.,Moderate
+"Construction, architecture and property",Architect,Designs buildings.,High
+"Construction, architecture and property",Interior Designer,Designs interior spaces.,High
+"Construction, architecture and property",CAD Draftsperson,Produces technical drawings.,Very High
+"Construction, architecture and property",BIM Specialist,Develops building information models.,High
+"Construction, architecture and property",Quantity Surveyor,Estimates construction costs.,High
+"Construction, architecture and property",Structural Engineer,Evaluates structural safety.,Moderate
+"Construction, architecture and property",Building Inspector,Inspects building compliance.,Moderate
+"Construction, architecture and property",Property Manager,Oversees real estate operations.,Moderate
+"Construction, architecture and property",Real Estate Appraiser,Estimates property values.,High
+"Construction, architecture and property",Urban Planner,Plans cities and land development.,Moderate
+"Transportation, logistics and aviation",Taxi Driver,Transports passengers.,High
+"Transportation, logistics and aviation",Ride-Hailing Driver,Provides app-based transport.,High
+"Transportation, logistics and aviation",Truck Driver,Transports goods.,High
+"Transportation, logistics and aviation",Delivery Driver,Delivers packages.,High
+"Transportation, logistics and aviation",Bus Driver,Operates passenger buses.,High
+"Transportation, logistics and aviation",Train Operator,Operates railway systems.,High
+"Transportation, logistics and aviation",Train Dispatcher,Coordinates railway traffic.,High
+"Transportation, logistics and aviation",Airline Pilot,Operates commercial aircraft.,Moderate
+"Transportation, logistics and aviation",Aircraft Maintenance Technician,Maintains aircraft systems.,Lower
+"Transportation, logistics and aviation",Air Traffic Controller,Coordinates aircraft movements.,Moderate
+"Transportation, logistics and aviation",Ship Captain,Commands maritime vessels.,Moderate
+"Transportation, logistics and aviation",Marine Engineer,Maintains ship propulsion.,Moderate
+"Transportation, logistics and aviation",Port Worker,Handles port cargo operations.,High
+"Transportation, logistics and aviation",Warehouse Picker,Picks products for orders.,Very High
+"Transportation, logistics and aviation",Warehouse Packer,Packs shipments.,Very High
+"Transportation, logistics and aviation",Warehouse Supervisor,Oversees warehouse operations.,Moderate
+"Transportation, logistics and aviation",Logistics Coordinator,Coordinates deliveries and transport.,High
+"Transportation, logistics and aviation",Supply Chain Analyst,Analyzes supply chain performance.,High
+"Transportation, logistics and aviation",Supply Chain Manager,Manages sourcing and distribution.,Moderate
+"Transportation, logistics and aviation",Customs Broker,Handles customs documentation.,High
+"Transportation, logistics and aviation",Freight Forwarder,Coordinates international cargo.,High
+"Transportation, logistics and aviation",Fleet Manager,Manages vehicle fleets.,Moderate
+"Retail, hospitality, tourism and food services",Cashier,Processes retail payments.,Very High
+"Retail, hospitality, tourism and food services",Retail Stock Clerk,Replenishes store merchandise.,High
+"Retail, hospitality, tourism and food services",Supermarket Attendant,Assists customers and store operations.,High
+"Retail, hospitality, tourism and food services",Store Manager,Manages retail operations.,Moderate
+"Retail, hospitality, tourism and food services",Restaurant Server,Takes orders and serves food.,Moderate
+"Retail, hospitality, tourism and food services",Fast Food Worker,Prepares and serves fast food.,High
+"Retail, hospitality, tourism and food services",Barista,Prepares coffee and beverages.,Moderate
+"Retail, hospitality, tourism and food services",Bartender,Prepares and serves drinks.,Moderate
+"Retail, hospitality, tourism and food services",Chef,Designs and prepares meals.,Moderate
+"Retail, hospitality, tourism and food services",Kitchen Assistant,Performs food preparation.,High
+"Retail, hospitality, tourism and food services",Hotel Receptionist,Handles guest check-in.,Very High
+"Retail, hospitality, tourism and food services",Hotel Housekeeper,Cleans hotel rooms.,Lower
+"Retail, hospitality, tourism and food services",Hotel Manager,Oversees hotel operations.,Moderate
+"Retail, hospitality, tourism and food services",Travel Agent,Arranges travel bookings.,Very High
+"Retail, hospitality, tourism and food services",Tour Guide,Leads tourist experiences.,Moderate
+"Retail, hospitality, tourism and food services",Flight Attendant,Provides passenger safety and service.,Moderate
+"Retail, hospitality, tourism and food services",Event Coordinator,Organizes events.,High
+"Retail, hospitality, tourism and food services",Restaurant Manager,Manages restaurant operations.,Moderate
+"Healthcare, medicine and pharmaceuticals",Medical Transcriptionist,Converts medical recordings into notes.,Very High
+"Healthcare, medicine and pharmaceuticals",Medical Records Clerk,Manages patient records.,Very High
+"Healthcare, medicine and pharmaceuticals",Medical Billing Specialist,Processes healthcare billing.,Very High
+"Healthcare, medicine and pharmaceuticals",Medical Coder,Assigns medical procedure codes.,High
+"Healthcare, medicine and pharmaceuticals",Radiology Technician,Operates medical imaging equipment.,Moderate
+"Healthcare, medicine and pharmaceuticals",Radiologist,Interprets medical images.,High
+"Healthcare, medicine and pharmaceuticals",Pathologist,Examines tissue samples.,Moderate
+"Healthcare, medicine and pharmaceuticals",Laboratory Technologist,Performs diagnostic testing.,High
+"Healthcare, medicine and pharmaceuticals",Pharmacist,Dispenses and advises on medication.,Moderate
+"Healthcare, medicine and pharmaceuticals",Pharmacy Technician,Supports medication preparation.,High
+"Healthcare, medicine and pharmaceuticals",General Practitioner,Diagnoses and treats illnesses.,Moderate
+"Healthcare, medicine and pharmaceuticals",Specialist Physician,Provides specialized medical treatment.,Moderate
+"Healthcare, medicine and pharmaceuticals",Surgeon,Performs surgical procedures.,Lower
+"Healthcare, medicine and pharmaceuticals",Anesthesiologist,Manages anesthesia and patient stability.,Moderate
+"Healthcare, medicine and pharmaceuticals",Dentist,Treats oral health conditions.,Lower
+"Healthcare, medicine and pharmaceuticals",Dental Technician,Produces dental appliances.,High
+"Healthcare, medicine and pharmaceuticals",Registered Nurse,Provides patient care.,Lower
+"Healthcare, medicine and pharmaceuticals",Nursing Assistant,Assists patients with daily care.,Lower
+"Healthcare, medicine and pharmaceuticals",Midwife,Provides pregnancy and childbirth care.,Lower
+"Healthcare, medicine and pharmaceuticals",Physical Therapist,Helps patients recover mobility.,Lower
+"Healthcare, medicine and pharmaceuticals",Occupational Therapist,Supports daily living rehabilitation.,Lower
+"Healthcare, medicine and pharmaceuticals",Psychologist,Evaluates and treats psychological conditions.,Moderate
+"Healthcare, medicine and pharmaceuticals",Psychiatrist,Diagnoses and treats mental disorders.,Moderate
+"Healthcare, medicine and pharmaceuticals",Medical Researcher,Conducts medical research.,Moderate
+"Healthcare, medicine and pharmaceuticals",Clinical Research Associate,Monitors clinical trials.,High
+"Healthcare, medicine and pharmaceuticals",Pharmaceutical Production Operator,Operates drug manufacturing equipment.,High
+"Healthcare, medicine and pharmaceuticals",Pharmaceutical Process Engineer,Develops pharmaceutical processes.,Moderate
+"Healthcare, medicine and pharmaceuticals",Public Health Specialist,Manages population health programs.,Moderate
+Education and academic professions,Online Tutor,Provides remote instruction.,High
+Education and academic professions,Homework Tutor,Helps students with schoolwork.,High
+Education and academic professions,Teaching Assistant,Supports classroom instruction.,High
+Education and academic professions,Primary School Teacher,Teaches foundational subjects.,Moderate
+Education and academic professions,Secondary School Teacher,Teaches academic subjects.,Moderate
+Education and academic professions,University Lecturer,Teaches higher education courses.,Moderate
+Education and academic professions,University Professor,Teaches and conducts research.,Moderate
+Education and academic professions,Corporate Trainer,Provides workplace training.,High
+Education and academic professions,Language Teacher,Teaches foreign languages.,High
+Education and academic professions,Special Education Teacher,Teaches students with special needs.,Lower
+Education and academic professions,Vocational Instructor,Teaches practical technical skills.,Lower
+Education and academic professions,Educational Content Developer,Creates learning materials.,High
+Education and academic professions,Curriculum Designer,Designs educational programs.,High
+Education and academic professions,Academic Researcher,Conducts scholarly research.,Moderate
+Education and academic professions,School Administrator,Manages educational institutions.,High
+Education and academic professions,Education Counselor,Advises students.,Moderate
+"Media, entertainment and creative industries",Copywriter,Writes advertising content.,Very High
+"Media, entertainment and creative industries",Content Writer,Produces articles and online content.,Very High
+"Media, entertainment and creative industries",Technical Writer,Creates technical documentation.,High
+"Media, entertainment and creative industries",Translator,Translates written materials.,Very High
+"Media, entertainment and creative industries",Interpreter,Translates spoken communication.,High
+"Media, entertainment and creative industries",Proofreader,Checks written documents.,Very High
+"Media, entertainment and creative industries",Editor,Reviews and improves written content.,High
+"Media, entertainment and creative industries",Journalist,Researches and reports news.,High
+"Media, entertainment and creative industries",News Reporter,Covers events and interviews sources.,High
+"Media, entertainment and creative industries",Graphic Designer,Creates visual materials.,High
+"Media, entertainment and creative industries",Illustrator,Creates visual artwork.,High
+"Media, entertainment and creative industries",Animator,Produces animated content.,High
+"Media, entertainment and creative industries",Video Editor,Edits video footage.,Very High
+"Media, entertainment and creative industries",Photographer,Captures photographs.,High
+"Media, entertainment and creative industries",Videographer,Records video content.,High
+"Media, entertainment and creative industries",Sound Engineer,Records and processes audio.,Moderate
+"Media, entertainment and creative industries",Music Producer,Produces and arranges music.,High
+"Media, entertainment and creative industries",Composer,Creates musical compositions.,High
+"Media, entertainment and creative industries",Voice Actor,Provides voice performances.,High
+"Media, entertainment and creative industries",Actor,Performs in film and theater.,Moderate
+"Media, entertainment and creative industries",Film Director,Directs creative productions.,Moderate
+"Media, entertainment and creative industries",Television Producer,Manages television productions.,Moderate
+"Media, entertainment and creative industries",Social Media Manager,Manages social media accounts.,High
+"Media, entertainment and creative industries",Advertising Specialist,Develops advertising campaigns.,High
+"Media, entertainment and creative industries",Public Relations Specialist,Manages public communications.,Moderate
+"Media, entertainment and creative industries",Brand Strategist,Develops brand positioning.,Moderate
+"Law, government and public administration",Legal Secretary,Handles legal correspondence.,Very High
+"Law, government and public administration",Paralegal,Conducts legal research and document preparation.,High
+"Law, government and public administration",Legal Researcher,Researches legislation and case law.,High
+"Law, government and public administration",Contract Administrator,Manages contracts.,High
+"Law, government and public administration",Lawyer,Advises and represents clients.,Moderate
+"Law, government and public administration",Corporate Counsel,Provides corporate legal advice.,Moderate
+"Law, government and public administration",Judge,Interprets law and decides disputes.,Lower
+"Law, government and public administration",Prosecutor,Presents criminal cases.,Lower
+"Law, government and public administration",Public Defender,Represents defendants.,Lower
+"Law, government and public administration",Government Clerk,Processes public records.,Very High
+"Law, government and public administration",Tax Officer,Administers tax compliance.,High
+"Law, government and public administration",Customs Officer,Enforces customs regulations.,Moderate
+"Law, government and public administration",Immigration Officer,Processes immigration matters.,Moderate
+"Law, government and public administration",Policy Analyst,Evaluates public policies.,High
+"Law, government and public administration",Diplomat,Represents national interests.,Lower
+"Law, government and public administration",Civil Servant,Performs public administration.,High
+"Law, government and public administration",Police Officer,Enforces laws and protects communities.,Lower
+"Law, government and public administration",Detective,Investigates criminal activity.,Moderate
+"Law, government and public administration",Firefighter,Responds to fires and emergencies.,Lower
+"Law, government and public administration",Emergency Dispatcher,Coordinates emergency responses.,High
+"Law, government and public administration",Military Officer,Commands military operations.,Moderate
+"Law, government and public administration",Intelligence Analyst,Evaluates security information.,High
+"Security, defense and cybersecurity",Security Guard,Monitors premises and access.,High
+"Security, defense and cybersecurity",CCTV Operator,Monitors surveillance feeds.,High
+"Security, defense and cybersecurity",SOC Analyst,Monitors cyber threats.,High
+"Security, defense and cybersecurity",Penetration Tester,Tests system security.,Moderate
+"Security, defense and cybersecurity",Incident Response Specialist,Investigates cyberattacks.,Lower
+"Security, defense and cybersecurity",Digital Forensics Investigator,Examines digital evidence.,Moderate
+"Security, defense and cybersecurity",Malware Analyst,Studies malicious software.,Moderate
+"Security, defense and cybersecurity",Threat Intelligence Analyst,Tracks cyber threats.,Moderate
+"Security, defense and cybersecurity",Security Engineer,Builds security controls.,Moderate
+"Security, defense and cybersecurity",OT Cybersecurity Engineer,Protects industrial networks.,Lower
+"Security, defense and cybersecurity",Security Architect,Designs security systems.,Lower
+"Security, defense and cybersecurity",Military Cyber Operations Specialist,Conducts and defends cyber operations.,Moderate
+"Security, defense and cybersecurity",Physical Security Consultant,Designs physical security arrangements.,Lower
+"Security, defense and cybersecurity",Close Protection Officer,Protects individuals from physical threats.,Lower
+"Energy, utilities, mining and natural resources",Power Plant Operator,Operates power generation facilities.,Moderate
+"Energy, utilities, mining and natural resources",Renewable Energy Engineer,Designs renewable energy systems.,Moderate
+"Energy, utilities, mining and natural resources",Solar Panel Installer,Installs solar equipment.,Lower
+"Energy, utilities, mining and natural resources",Wind Turbine Technician,Maintains wind turbines.,Lower
+"Energy, utilities, mining and natural resources",Electrical Grid Engineer,Maintains electrical networks.,Moderate
+"Energy, utilities, mining and natural resources",Energy Analyst,Evaluates energy markets and usage.,High
+"Energy, utilities, mining and natural resources",Oil Rig Worker,Performs offshore drilling activities.,Moderate
+"Energy, utilities, mining and natural resources",Drilling Engineer,Designs drilling operations.,Moderate
+"Energy, utilities, mining and natural resources",Geologist,Studies geological formations.,Moderate
+"Energy, utilities, mining and natural resources",Geophysicist,Studies subsurface properties.,Moderate
+"Energy, utilities, mining and natural resources",Mining Equipment Operator,Operates extraction machinery.,High
+"Energy, utilities, mining and natural resources",Mine Safety Engineer,Manages mining safety.,Lower
+"Energy, utilities, mining and natural resources",Petroleum Geologist,Studies oil and gas reservoirs.,Moderate
+"Energy, utilities, mining and natural resources",Water Treatment Operator,Operates water treatment facilities.,Moderate
+"Energy, utilities, mining and natural resources",Environmental Scientist,Studies environmental impacts.,Moderate
+"Energy, utilities, mining and natural resources",Waste Management Technician,Handles waste processing.,Moderate
+"Personal services, trades and domestic work",Hairdresser,Cuts and styles hair.,Lower
+"Personal services, trades and domestic work",Barber,Provides haircuts and grooming.,Lower
+"Personal services, trades and domestic work",Beautician,Provides beauty treatments.,Lower
+"Personal services, trades and domestic work",Makeup Artist,Applies makeup.,Moderate
+"Personal services, trades and domestic work",Massage Therapist,Provides therapeutic massage.,Lower
+"Personal services, trades and domestic work",Spa Therapist,Provides wellness treatments.,Lower
+"Personal services, trades and domestic work",Tailor,Makes and alters clothing.,Lower
+"Personal services, trades and domestic work",Shoe Repairer,Repairs footwear.,Lower
+"Personal services, trades and domestic work",Laundry Worker,Washes and processes clothing.,High
+"Personal services, trades and domestic work",Housekeeper,Cleans and maintains homes.,Lower
+"Personal services, trades and domestic work",Domestic Helper,Performs household tasks.,Lower
+"Personal services, trades and domestic work",Nanny,Provides childcare.,Lower
+"Personal services, trades and domestic work",Childcare Worker,Supervises children.,Lower
+"Personal services, trades and domestic work",Elderly Caregiver,Provides elderly care.,Lower
+"Personal services, trades and domestic work",Personal Care Assistant,Provides daily living assistance.,Lower
+"Personal services, trades and domestic work",Pet Groomer,Provides animal grooming.,Lower
+"Personal services, trades and domestic work",Animal Caretaker,Feeds and cares for animals.,Lower
+"Personal services, trades and domestic work",Funeral Service Worker,Handles funeral arrangements.,Moderate
+"Personal services, trades and domestic work",Locksmith,Installs and repairs locks.,Lower
+"Personal services, trades and domestic work",Appliance Repair Technician,Repairs household appliances.,Lower
+"Personal services, trades and domestic work",HVAC Technician,Installs and repairs cooling systems.,Lower
+"Personal services, trades and domestic work",Auto Mechanic,Repairs and maintains vehicles.,Lower
+"Personal services, trades and domestic work",Motorcycle Mechanic,Repairs motorcycles.,Lower
+"Personal services, trades and domestic work",Automotive Electrician,Repairs vehicle electrical systems.,Lower
+"Personal services, trades and domestic work",Watch Repairer,Repairs watches.,Lower
+"Personal services, trades and domestic work",Pest Control Technician,Inspects and treats pest infestations.,Lower
+"Management, leadership and consulting",General Manager,Oversees business operations.,Moderate
+"Management, leadership and consulting",Chief Executive Officer,Leads company strategy.,Lower
+"Management, leadership and consulting",Chief Financial Officer,Oversees financial strategy.,Moderate
+"Management, leadership and consulting",Chief Technology Officer,Leads technology strategy.,Moderate
+"Management, leadership and consulting",Chief Information Officer,Oversees enterprise IT.,Moderate
+"Management, leadership and consulting",Chief Information Security Officer,Leads cybersecurity strategy.,Lower
+"Management, leadership and consulting",Operations Manager,Oversees daily operations.,Moderate
+"Management, leadership and consulting",Project Manager,Coordinates project delivery.,High
+"Management, leadership and consulting",Program Manager,Oversees multiple projects.,Moderate
+"Management, leadership and consulting",Product Manager,Defines product strategy.,Moderate
+"Management, leadership and consulting",Human Resources Officer,Handles employee administration.,High
+"Management, leadership and consulting",HR Business Partner,Advises management on workforce matters.,Moderate
+"Management, leadership and consulting",Recruitment Specialist,Sources and screens candidates.,High
+"Management, leadership and consulting",Organizational Development Consultant,Improves organizational performance.,Moderate
+"Management, leadership and consulting",Management Consultant,Advises businesses.,High
+"Management, leadership and consulting",Strategy Consultant,Develops business strategies.,High
+"Management, leadership and consulting",Business Owner,Owns and operates a business.,Lower
+"Management, leadership and consulting",Entrepreneur,Creates and develops businesses.,Lower
+"Management, leadership and consulting",Change Management Consultant,Leads organizational transitions.,Moderate
+"Management, leadership and consulting",Risk Management Director,Oversees organizational risks.,Lower
+"Management, leadership and consulting",Corporate Strategy Director,Leads long-term strategy.,Lower
+Emerging AI and automation careers,AI Agent Engineer,Develops autonomous AI agents.,Lower
+Emerging AI and automation careers,AI Agent Operations Manager,Supervises AI agent operations.,Moderate
+Emerging AI and automation careers,AI Governance Specialist,Establishes AI policies and controls.,Lower
+Emerging AI and automation careers,AI Security Engineer,Protects AI systems.,Lower
+Emerging AI and automation careers,AI Red Team Specialist,Tests AI systems for vulnerabilities.,Moderate
+Emerging AI and automation careers,AI Auditor,Evaluates AI risks and compliance.,Lower
+Emerging AI and automation careers,AI Infrastructure Engineer,Maintains AI computing infrastructure.,Moderate
+Emerging AI and automation careers,Robotics Integration Engineer,Integrates robots into operations.,Moderate
+Emerging AI and automation careers,Autonomous Systems Engineer,Develops autonomous machines.,Moderate
+Emerging AI and automation careers,Human-AI Interaction Designer,Designs human-AI workflows.,Moderate
+Emerging AI and automation careers,Synthetic Data Engineer,Creates artificial training datasets.,Moderate
+Emerging AI and automation careers,Digital Twin Engineer,Develops virtual physical-system models.,Moderate
+Emerging AI and automation careers,Industrial AI Engineer,Applies AI to manufacturing.,Lower
+Emerging AI and automation careers,Autonomous Laboratory Engineer,Designs robotic laboratories.,Moderate
+Emerging AI and automation careers,AI Process Engineer,Integrates AI into industrial processes.,Moderate
+Emerging AI and automation careers,OT Cybersecurity Architect,Designs industrial security architecture.,Lower
+Emerging AI and automation careers,AI Compliance Officer,Ensures regulatory compliance.,Lower
+Emerging AI and automation careers,AI Risk Manager,Evaluates AI operational risks.,Lower
+Emerging AI and automation careers,Data Governance Architect,Establishes enterprise data governance.,Lower
+Emerging AI and automation careers,Autonomous Fleet Manager,Supervises autonomous vehicle fleets.,Moderate
+Emerging AI and automation careers,Robotics Maintenance Specialist,Maintains robotic systems.,Lower
+Emerging AI and automation careers,AI Operations Engineer,Monitors production AI systems.,Moderate
